@@ -1,0 +1,14 @@
+{
+    "name": "mmandbstudio/cakepip",
+    "description": "point in polygon to use with CakePHP",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "CakePip\\": "src/"
+        }
+    }
+}
